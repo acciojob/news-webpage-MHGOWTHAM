@@ -10,16 +10,22 @@
 	padding:10px;
 	
 }
-.header{
+.header-1{
 	background-color: #f5f5f5;
 	padding:20px;
 	width:100%;
 	text-align:center;
 }
+.header-2{
+	text-align:center;
+	background-color: #f5f5f5;
+	padding:20px;
+	width:90%;	
+}
 .head{
 	background-color: #f5f5f5;
 	padding:20px;
-	width:90%;
+	width:90%;	
 	
 }
 
