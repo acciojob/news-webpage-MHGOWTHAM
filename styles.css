@@ -20,7 +20,7 @@
 	text-align:center;
 	background-color: #f5f5f5;
 	padding:20px;
-	width:90%;	
+	max-width:100%;	
 }
 .head{
 	background-color: #f5f5f5;
